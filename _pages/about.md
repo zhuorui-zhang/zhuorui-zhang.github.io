@@ -11,12 +11,12 @@ redirect_from:
 This is Zhuorui Zhang's personal homepage.
 
 ## A short introduction
-I'm an Algorithm Engineering in the Autonomous Driving Center of XPeng Motors. I received my Master degree in Applied Mathematics and Data Science from [Macau University of Science and Technology](https://www.must.edu.mo/). I received my B.Eng. in Materials Science and Engineering from [South China University of Technology](https://www.scut.edu.cn/new/).
+I'm an Algorithm Engineering in the Autonomous Driving Center of [XPeng Motors](https://en.xiaopeng.com/about.html). I received my Master degree in Applied Mathematics and Data Science from [Macau University of Science and Technology](https://www.must.edu.mo/). I received my B.Eng. in Materials Science and Engineering from [South China University of Technology](https://www.scut.edu.cn/new/).
 
 <b>Research Interests:</b>
 * Machine Learning and Deep Learning
 * Autonomous driving algorithms
-* Multi-sensor Fusion
+* Multi-sensors Fusion
 
 <b>Research Highlights:</b>
 
@@ -27,7 +27,9 @@ I'm an Algorithm Engineering in the Autonomous Driving Center of XPeng Motors. I
 
 
 ## Selected Journal Publications
+Zhuorui Zhang, Hong-Ning Dai, Junhao Zhou, Subrota Kumar Mondal, Miguel Martínez García, Hao Wang. (2021). Forecasting cryptocurrency price using convolutional neural networks with weighted and attentive memory channels. *Expert Systems with Applications*, vol 183, 115378. [link](https://doi.org/10.1016/j.eswa.2021.115378)
 
+Zhuorui Zhang, Junhao Zhou, Yanan Song, Hong-Ning. (2020). Cryptocurrencies Price Prediction Using Weighted Memory Multi-channels. *Blockchain and Trustworthy Systems (BlockSys 2020)*, vol 1267, 502-516. [link](https://doi.org/10.1007/978-981-15-9213-3_39)
 <!-- Jiang, Z., Johnson, F., & Sharma, A. (2021). Why uncertainty matters? A new alternative to project drought for future climates. *submitted to Water Resources Research, under review*. 
 
 Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. [link](https://doi.org/10.1016/j.jhydrol.2021.126816)
@@ -41,4 +43,4 @@ Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-
 Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. [link](https://doi.org/10.1007/s00704-018-2617-z) -->
 
 ## For more information
-More info about Zhuorui Zhang can be found in [CV](https://zhuorui-zhang.github.io/cv/) or [downloaded CV](http://zhuorui-zhang.github.io/files/CV_ZhuoruiZhang_XPeng.pdf).
+More info about Zhuorui Zhang can be found in [CV](https://zhuorui-zhang.github.io/cv/) or [downloaded CV](http://zhuorui-zhang.github.io/files/CV_ZhuoruiZhang_XPeng_Eng.pdf).

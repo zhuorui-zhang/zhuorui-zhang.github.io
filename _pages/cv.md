@@ -8,32 +8,32 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV ([Eng](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf),[Chi](https://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Chi.pdf))
+Download CV ([Eng](http://zhuorui-zhang.github.io/files/CV_ZhuoruiZhang_XPeng_Eng.pdf),[Chi](https://zhuorui-zhang.github.io/files/CV_ZhuoruiZhang_XPeng_Chi.pdf))
 ======
 
 Education
 ======
-* B.Eng. in Environmental Engineering, Hohai University, Nanjing, China, 2012
-* M.Sc. in Hydro-Informatics and Water Management, Partnership of five European Universities, 2015
-* Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021
+* B.Eng. in Materials Sciecne and Engineering, South China University of Technology, Guangzhou, China, 2013-2017
+* M.Sc. in Applied Mathematics and Data Science, Macau University of Science and Technology, 2017-2019
+<!-- * Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021 -->
 
 Research Interests
 ======
-* Hydro-climatological modelling and forecasting
+<!-- * Hydro-climatological modelling and forecasting
 * Climate change impact on the water cycle (e.g. floods and droughts)
 * Hydrology/Hydraulics and water quality numerical modelling
-* HydroInformatics and water management
+* HydroInformatics and water management -->
 
 Research Highlights
 ======
-* Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
+<!-- * Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
 * An open-source tool for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
 * Quantification of future changes in drought and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
-* Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
+* Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer -->
 
 Work experience
 ======
-* Jun. 2021 - Current: Postdoctoral Research Fellow
+<!-- * Jun. 2021 - Current: Postdoctoral Research Fellow
   * Water Research Centre, University of New South Wales, Sydney, Australia
   * Duties included: 
     + Bias characterisation and correction in Numerical Weather Prediction (NWP) models
@@ -54,38 +54,38 @@ Work experience
   * Duties included:
     + Lead the Development of the Time-Area Function Model Based on QGIS Environment for Stormwater Management.
     + Involve in a Project in Saudi Arabia on Flood Modelling and Mitigation of Hafar Al-Batin City.   
-  * Supervisor: Prof. Frank Molkenthin and Prof. Heiko Sieker
+  * Supervisor: Prof. Frank Molkenthin and Prof. Heiko Sieker -->
 
 Publications
-======
+<!-- ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
  
 Talks
-======
+<!-- ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+   -->
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+   -->
 Languages
 ======
 Mandarin, English
 
 Skills & Expertise 
-======
+<!-- ======
 * Statistical hydrology and water resource engineering.
 * Programming Skills: R, C/C++, and Python in both Unix and Windows systems.
-* Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
+* Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS. -->
 
 Service and leadership
-======
+<!-- ======
 * Contribute to First Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6) as a group reviewer
 * Contribute to Second Order Draft of IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
 * Reviewer Editor: 
@@ -94,11 +94,11 @@ Service and leadership
   + Journal of Hydrology
   + Frontiers in Water
   + International Journal of River Basin Management 
-  + Water
+  + Water -->
 
 Membership
-======
+<!-- ======
 * American Geosciences Union (AGU)
 * Asia Oceania Geosciences Society (AOGS)
 * International Commission of Statistical Hydrology (ICSH-IAHS)
-* Modeling and Simulation Society of Australia and New Zealand (MSSANZ)
+* Modeling and Simulation Society of Australia and New Zealand (MSSANZ) -->
