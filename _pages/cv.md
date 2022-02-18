@@ -8,7 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV ([Eng](http://zhuorui-zhang.github.io/files/CV_ZhuoruiZhang_XPeng_Eng.pdf),[Chi](https://zhuorui-zhang.github.io/files/CV_ZhuoruiZhang_XPeng_Chi.pdf))
+Download CV ([Eng](http://zhuorui-zhang.github.io/files/CV_ZhuoruiZhang_XPeng_Eng.pdf)
+
+<!-- ,[Chi](https://zhuorui-zhang.github.io/files/CV_ZhuoruiZhang_XPeng_Chi.pdf)) -->
 ======
 
 Education
@@ -57,34 +59,33 @@ Work experience
   * Supervisor: Prof. Frank Molkenthin and Prof. Heiko Sieker -->
 
 Publications
+======
 <!-- ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
  
 Talks
+======
 <!-- ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
    -->
-<!-- Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-   -->
+
 Languages
 ======
 Mandarin, English
 
 Skills & Expertise 
+======
 <!-- ======
 * Statistical hydrology and water resource engineering.
 * Programming Skills: R, C/C++, and Python in both Unix and Windows systems.
 * Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS. -->
 
 Service and leadership
+======
 <!-- ======
 * Contribute to First Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6) as a group reviewer
 * Contribute to Second Order Draft of IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
@@ -96,8 +97,8 @@ Service and leadership
   + International Journal of River Basin Management 
   + Water -->
 
-Membership
-<!-- ======
+<!-- Membership
+======
 * American Geosciences Union (AGU)
 * Asia Oceania Geosciences Society (AOGS)
 * International Commission of Statistical Hydrology (ICSH-IAHS)
