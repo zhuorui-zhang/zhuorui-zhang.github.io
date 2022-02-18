@@ -26,10 +26,11 @@ I'm an Algorithm Engineering in the Autonomous Driving Center of [XPeng Motors](
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer -->
 
 
-## Selected Journal Publications
-Zhuorui Zhang, Hong-Ning Dai, Junhao Zhou, Subrota Kumar Mondal, Miguel Martínez García, Hao Wang. (2021). Forecasting cryptocurrency price using convolutional neural networks with weighted and attentive memory channels. *Expert Systems with Applications*, vol 183, 115378. [link](https://doi.org/10.1016/j.eswa.2021.115378)
+## Publications
+Zhuorui Z., Hong-Ning D., Junhao Z., Subrota K. M., Miguel M. G., & Hao W. (2021). Forecasting cryptocurrency price using convolutional neural networks with weighted and attentive memory channels. *Expert Systems with Applications*, vol 183, 115378. [link](https://doi.org/10.1016/j.eswa.2021.115378)
 
-Zhuorui Zhang, Junhao Zhou, Yanan Song, Hong-Ning. (2020). Cryptocurrencies Price Prediction Using Weighted Memory Multi-channels. *Blockchain and Trustworthy Systems (BlockSys 2020)*, vol 1267, 502-516. [link](https://doi.org/10.1007/978-981-15-9213-3_39)
+Zhuorui Z., Junhao Z., Yanan S., & Hong-Ning D. (2020). Cryptocurrencies Price Prediction Using Weighted Memory Multi-channels. *Blockchain and Trustworthy Systems (BlockSys 2020)*, vol 1267, 502-516. [link](https://doi.org/10.1007/978-981-15-9213-3_39)
+
 <!-- Jiang, Z., Johnson, F., & Sharma, A. (2021). Why uncertainty matters? A new alternative to project drought for future climates. *submitted to Water Resources Research, under review*. 
 
 Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. [link](https://doi.org/10.1016/j.jhydrol.2021.126816)
